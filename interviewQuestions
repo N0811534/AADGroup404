@@ -1,5 +1,6 @@
-Questions that we are going to use for our interview:
-Deadline:
-Acceability:
-How long should the app store user information so the user can access it
-What method is going to be used to confirm identity
+Questions:
+1) How sensitive is the data being held on the app/ what kind of security would it need?
+2) What security should the user have to pass through to access their data?
+3) What accessibility options need to be included?
+4) How long should the app store information so that the user can access it?
+5) What is the ideal deadline for the product?
